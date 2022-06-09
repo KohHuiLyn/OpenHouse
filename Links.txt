@@ -1,0 +1,8 @@
+Slides
+https://docs.google.com/presentation/d/1BF8MzJ58p9sgl7NmYdhFA_wJ_RPyEVOShugIjZGj02g/edit?usp=sharing
+
+Video
+https://www.youtube.com/watch?v=_ArNcyxN5Ik
+
+Pose Estimation Demo
+https://pose-animator-demo.firebaseapp.com/static_image.html
